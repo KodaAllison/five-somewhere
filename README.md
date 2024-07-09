@@ -38,7 +38,7 @@ A web application that displays cities where it's currently 5 PM, along with var
 2. **Install dependencies**:
     - For the front-end:
       ```bash
-      cd frontend
+      cd five-somewhere // (FRONTEND)
       npm install
       ```
 
@@ -64,7 +64,7 @@ A web application that displays cities where it's currently 5 PM, along with var
 
 2. **Start the front-end server**:
     ```bash
-    cd frontend
+    cd five-somewhere (FRONTEND)
     npm start
     ```
 
