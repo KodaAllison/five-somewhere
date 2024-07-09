@@ -31,7 +31,7 @@ A web application that displays cities where it's currently 5 PM, along with var
 ## Installation
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/FivePMPlaces.git
+    https://github.com/KodaAllison/five-somewhere
     cd FivePMPlaces
     ```
 
