@@ -1,0 +1,30 @@
+:root {
+  --primary-color: #4A90E2;
+  --secondary-color: #50E3C2;
+  --primary-text-color: #333333;
+  --secondary-text-color: #7F8C8D;
+}
+
+header {
+    background-color: var(--primary-color); /* Light background color for the header */
+    padding: 1rem;
+  }
+  
+  header h1 {
+    color: var(--primary-text-color);
+    font-size: 2rem;
+    font-weight: 700;
+
+  }
+  
+  .App {
+  }
+
+.city-title{
+    background-color:var(--primary-color);
+    border-color: #F0A425;
+}
+
+.city-content{
+    background-color: var(--secondary-color);
+}
